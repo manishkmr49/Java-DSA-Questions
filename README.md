@@ -15,11 +15,11 @@ This repository contains a curated collection of Data Structures and Algorithms 
 - [Sorting]
 - [String]
 - [Linked Lists]
-- [Trees](./trees)
+- [Trees]
 - [Sorting Algorithms]
 - [Searching Algorithms]
 - [Graphs]
-- [Dynamic Programming](./dynamic-programming)
+- [Dynamic Programming]
 - [And more...]
 
 Feel free to explore, contribute, and improve your DSA skills with us!
