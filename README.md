@@ -1,6 +1,6 @@
-# DSA Question
+# Java-DSA-Questions
 
-Welcome to the DSA Question repository!
+Welcome to the Java-DSA-Questions repository!
 
 This repository contains a curated collection of Data Structures and Algorithms (DSA) questions and solutions, designed to enhance your problem-solving skills and prepare you for technical interviews.
 
