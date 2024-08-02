@@ -8,7 +8,8 @@ public class PowerCalculator2 {
         int halfPower = OptimizePower(x, n/2);
         int halfPowerSq = halfPower * halfPower;
 
-        //when n is odd
+        //n is odd
+        
         if(n%2 != 0){
             halfPowerSq = x * halfPowerSq;
         }
